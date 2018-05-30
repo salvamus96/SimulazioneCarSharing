@@ -8,7 +8,6 @@ public class Simulatore {
 	public enum EventType{
 		CUSTOMER_IN, // arriva un nuovo cliente
 		CAR_RETURNED // viene restituita un'auto
-	
 	}
 
 	
