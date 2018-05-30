@@ -72,7 +72,6 @@ public class Simulatore {
 			return "Event [minuti=" + minuti + ", tipo=" + tipo + "]";
 		}
 		
-		
 	}
 	
 	
